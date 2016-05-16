@@ -20,12 +20,12 @@
     </option>
     <option name="LOGCAT_INFO_OUTPUT">
       <value>
-        <option name="FOREGROUND" value="338700" />
+        <option name="FOREGROUND" value="5ae900" />
       </value>
     </option>
     <option name="LOGCAT_WARNING_OUTPUT">
       <value>
-        <option name="FOREGROUND" value="c1c2b2" />
+        <option name="FOREGROUND" value="e7ea3b" />
       </value>
     </option>
   </attributes>

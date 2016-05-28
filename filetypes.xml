@@ -2,7 +2,6 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern="about" type="PLAIN_TEXT" />
-      <mapping pattern="space_banner_bg" type="XML" />
     </extensionMap>
   </component>
 </application>

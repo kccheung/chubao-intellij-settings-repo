@@ -1,6 +1,5 @@
 <application>
   <component name="PathMacrosImpl">
-    <macro name="JAVA8_HOME" value="/Library/Java/JavaVirtualMachines/jdk1.8.0_74.jdk/Contents/Home" />
     <macro name="MAVEN_REPOSITORY" value="/Users/david.cheung/.m2/repository" />
   </component>
 </application>

@@ -2,6 +2,8 @@
   <component name="FindSettings">
     <option name="customScope" value="Module 'ReloCrown'" />
     <option name="defaultScopeName" value="Module 'ReloCrown'" />
+    <option name="localCaseSensitive" value="true" />
+    <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="Module 'ReloCrown'" />
     <recentFileMasks>
       <mask>*.properties</mask>

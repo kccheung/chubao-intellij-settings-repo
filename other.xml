@@ -15,6 +15,9 @@
       </profile-state>
     </entry>
   </component>
+  <component name="CodeStyleSchemesUIConfiguration">
+    <option name="RECENT_IMPORT_FILE_LOCATION" value="file:$APPLICATION_CONFIG_DIR$/codestyles/AndroidStyle.xml" />
+  </component>
   <component name="CvsApplicationLevelConfiguration">
     <option name="EXT_CONFIGURATION">
       <value>

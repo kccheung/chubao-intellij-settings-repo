@@ -1,9 +1,15 @@
 <application>
   <component name="ActionMacroManager">
-    <macro name="Format and save files">
+    <macro name="Format and Save Files">
       <action id="OptimizeImports" />
       <action id="ReformatCode" />
       <action id="SaveAll" />
+    </macro>
+    <macro name="Format Save and Check Style">
+      <action id="OptimizeImports" />
+      <action id="ReformatCode" />
+      <action id="SaveAll" />
+      <action id="CheckStyleCurrentFileAction" />
     </macro>
   </component>
 </application>
